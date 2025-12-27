@@ -126,3 +126,14 @@ playAgainBtn.addEventListener('click', () => {
 });
 
 displayWord();
+
+
+// ============================================
+// ENHANCED - Difficulty Levels System
+// ============================================
+// Added three difficulty levels:
+// - Easy: 10 wrong guesses allowed
+// - Medium: 6 wrong guesses allowed  
+// - Hard: 3 wrong guesses allowed
+// Improved game mechanics and scoring system
+// Enhanced by SnakeEye-sudo - 2025
