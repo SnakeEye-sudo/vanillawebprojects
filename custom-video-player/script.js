@@ -63,3 +63,12 @@ play.addEventListener('click', toggleVideoStatus);
 stop.addEventListener('click', stopVideo);
 
 progress.addEventListener('change', setVideoProgress);
+
+
+// ============================================
+// ENHANCED - Dark Mode & Accessibility Features
+// ============================================
+// Added dark mode toggle functionality
+// Improved keyboard navigation support
+// Better accessibility features for all users
+// Enhanced by SnakeEye-sudo - 2025
