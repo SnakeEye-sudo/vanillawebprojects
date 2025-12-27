@@ -30,3 +30,36 @@ This is the main repository for all of the projects in the course.
 
 
 NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
+
+
+---
+
+## 🚀 Enhanced Version by SnakeEye-sudo
+
+This is an enhanced fork with the following improvements:
+
+### ✨ Feature Enhancements:
+
+1. **Breakout Game** - Added power-ups system and multiple difficulty levels
+2. **Custom Video Player** - Integrated dark mode toggle for comfortable viewing
+3. **DOM Array Methods** - Improved search and real-time filtering functionality
+4. **Exchange Rate Calculator** - Added favorite currencies bookmark feature
+5. **Expense Tracker** - Implemented chart visualization for expense analytics
+6. **Form Validator** - Added smooth real-time validation animations
+7. **Hangman Game** - Introduced difficulty levels (Easy, Medium, Hard)
+
+### 📝 Additional Improvements:
+- Better error handling and user feedback
+- Responsive design optimizations
+- Improved code comments and documentation
+- Performance optimizations across all projects
+
+### 🛠️ Technologies Used:
+- Vanilla JavaScript (ES6+)
+- HTML5
+- CSS3 (with animations)
+- LocalStorage API for data persistence
+
+---
+
+*Built with passion by SnakeEye-sudo | Fork & Contribute*
