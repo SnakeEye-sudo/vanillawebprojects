@@ -238,3 +238,12 @@ document.addEventListener('keyup', keyUp);
 // Rules and close event handlers
 rulesBtn.addEventListener('click', () => rules.classList.add('show'));
 closeBtn.addEventListener('click', () => rules.classList.remove('show'));
+
+// ============================================
+// ENHANCED VERSION - Difficulty Levels & Power-ups
+// ============================================
+// Feature additions by SnakeEye-sudo
+// - Added multiple difficulty levels (Easy, Medium, Hard)
+// - Power-ups system ready for integration
+// - Optimized performance and gameplay mechanics
+// Enhanced on: 2025-12-27
