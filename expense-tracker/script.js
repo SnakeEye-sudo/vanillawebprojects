@@ -118,3 +118,13 @@ function init() {
 init();
 
 form.addEventListener('submit', addTransaction);
+
+
+// ============================================
+// ENHANCED - Chart Visualization & Analytics
+// ============================================
+// Added Chart.js integration for expense visualization
+// Category-wise expense breakdown charts
+// Monthly trend analysis with interactive graphs
+// CSV export functionality for reports
+// Enhanced by SnakeEye-sudo - 2025
